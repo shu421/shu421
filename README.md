@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### profile
+[twitter](https://twitter.com/shu421_)
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=shu421&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/shu421/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu421&layout=compact&theme=tokyonight)](https://github.com/shu421/)
 
