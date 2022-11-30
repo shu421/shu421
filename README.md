@@ -1,4 +1,6 @@
 # profile
+I enjoy learning Machine/Deep Learning in Kaggle.
+
 - twitter: https://twitter.com/shu421_/
 - kaggle: https://www.kaggle.com/shu421/
 
