@@ -13,6 +13,8 @@
 - [note](https://note.com/shu421)
 - [Zenn](https://zenn.dev/shu421)
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -23,6 +25,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+<hr size="0.5">
+
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=shu421&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/shu421/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu421&theme=tokyonight)](https://github.com/shu421/)
-
