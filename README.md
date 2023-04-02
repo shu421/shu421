@@ -1,8 +1,17 @@
 # profile
 I enjoy learning Machine/Deep Learning in Kaggle.
 
-- twitter: https://twitter.com/shu421_/
-- kaggle: https://www.kaggle.com/shu421/
+<p align="left">
+  <a href="https://github.com/shu421/shu421/">
+    <img src="https://komarev.com/ghpvc/?username=shu421" alt="shu421" />
+  </a>
+</p>
+
+- [Twitter](https://twitter.com/shu421_/)
+- [Kaggle](https://www.kaggle.com/shu421/)
+- [Qiita](https://qiita.com/shu421)
+- [note](https://note.com/shu421)
+- [Zenn](https://zenn.dev/shu421)
 
 <!--
 **shu421/shu421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
