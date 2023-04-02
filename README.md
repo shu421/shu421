@@ -1,5 +1,5 @@
 # Hello World!
-👋 I'm shu421, learning Machine/Deep Learning in Kaggle.
+👋 I'm shu421, learning Machine/Deep Learning on Kaggle.
 
 <p align="left">
   <a href="https://github.com/shu421/shu421/">
