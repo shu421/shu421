@@ -7,11 +7,7 @@
   </a>
 </p>
 
-- [Twitter](https://twitter.com/shu421_/)
-- [Kaggle](https://www.kaggle.com/shu421/)
-- [Qiita](https://qiita.com/shu421)
-- [note](https://note.com/shu421)
-- [Zenn](https://zenn.dev/shu421)
+Profile: [Linktree]([https://twitter.com/shu421_/](https://linktr.ee/shu421))
 
 
 
