@@ -7,7 +7,7 @@
   </a>
 </p>
 
-Profile: [Linktree]([https://twitter.com/shu421_/](https://linktr.ee/shu421))
+Profile: [Linktree](https://linktr.ee/shu421)
 
 
 
